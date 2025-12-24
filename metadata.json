@@ -1,0 +1,9 @@
+{
+  "name": "Genius Public Secondary School",
+  "description": "The official website of Genius Public Secondary School, Tonk, Rajasthan. A premium educational institution dedicated to excellence.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
